@@ -28,9 +28,9 @@
 <!-- Technologies Section -->
 <h4>Technologies:</h4>
 <p align="left">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="30" height="30"/>
+    <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/08/13110931/django-framework.png" alt="django" width="60" height="60"/>
+    <img src="https://th.bing.com/th/id/OIP.6aiG8217Vy9kEpF5k9ag4QHaJQ?pid=ImgDet&rs=1" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="60" height="60"/>
 </p>
 
 <!-- Stats and GitHub activity -->
