@@ -22,7 +22,7 @@
 <p align="left">
     <img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="80" height="80"/>
     <img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="80" height="80"/>
-    <img src="https://perisync.com/images/gocc.gif" alt="golang" width="136" height="80"/>
+    <img src="https://miro.medium.com/max/1000/1*Gbi_XNOkPFbWkIkJC7LnBQ.gif" height="80"/>
 </p>
 
 <!-- Technologies Section -->
