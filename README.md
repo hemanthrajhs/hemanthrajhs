@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Hemanthraj hs </h1>
-<h3 align="center"><a href="https://www.linkedin.com/in/hemanthraj-hs/" target="_blank" rel="noreferrer">Hemanth</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 2+ years</h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/hemanthraj-hs/" target="_blank" rel="noreferrer">Hemanth</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 1+ years</h3>
 
 <!-- GIF -->
 <img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
