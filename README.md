@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Hemanthraj hs </h1>
+<h1 align="center">Hi 👋, I'm Hemanthraj</h1>
 <h3 align="center"><a href="https://www.linkedin.com/in/hemanthraj-hs/" target="_blank" rel="noreferrer">Hemanth</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 1+ years</h3>
 
 <!-- GIF -->
